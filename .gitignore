@@ -7,3 +7,6 @@ yarn-debug.log*
 yarn-error.log*
 vite-server.log
 vite-server.err.log
+.ci-test-*/
+.install-test-*/
+.lock-tmp-*/
